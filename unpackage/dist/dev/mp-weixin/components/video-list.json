@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "list-left": "/components/listLeft",
+    "list-right": "/components/listRight"
+  }
+}
